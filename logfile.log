@@ -1,0 +1,323 @@
+2021-09-29 17:04:42,545 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:04:45,049 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:04:47,312 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:04:49,336 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:04:49,551 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:04:50,717 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:04:50,811 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:04:50,904 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:04:50,988 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:04:56,018 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 17:09:43,419 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 17:09:43,424 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:09:46,805 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 17:09:46,805 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:09:48,638 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 17:09:48,639 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:09:51,269 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 17:09:51,269 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:09:51,491 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:09:52,743 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:09:52,816 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:09:52,876 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:09:52,957 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:09:57,997 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 17:17:26,302 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 17:17:26,305 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:17:29,881 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 17:17:29,882 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:17:32,517 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 17:17:32,517 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:17:35,143 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 17:17:35,143 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:17:35,363 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:17:36,868 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:17:36,954 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:17:37,025 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:17:37,098 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:17:42,148 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 17:24:58,768 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 17:24:58,772 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:25:02,277 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 17:25:02,277 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:25:04,874 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 17:25:04,874 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:25:06,969 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 17:25:06,970 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:25:07,187 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:25:08,416 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:25:08,505 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:25:08,600 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:25:08,676 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:25:13,724 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 17:26:07,216 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 17:26:07,220 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:26:10,969 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 17:26:10,969 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:26:13,653 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 17:26:13,654 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:26:16,364 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 17:26:16,364 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:26:16,588 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:26:17,927 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:26:18,007 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:26:18,075 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:26:18,163 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:26:23,207 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 17:26:38,013 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 17:26:38,017 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 17:26:40,632 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 17:26:40,633 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 17:26:43,016 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 17:26:43,017 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 17:26:44,584 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 17:26:44,585 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 17:26:44,795 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 17:26:46,164 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 17:26:46,241 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 17:26:46,301 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 17:26:46,386 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 17:26:51,418 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:12:05,650 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:12:05,654 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:12:09,031 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 18:12:09,031 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:12:11,432 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:12:11,432 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:12:13,450 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:12:13,450 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:12:13,664 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:12:14,791 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:12:14,884 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:12:14,884 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:12:14,973 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:12:14,974 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:12:15,044 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:12:15,044 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:12:20,090 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:13:03,492 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:13:03,496 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:13:06,874 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 18:13:06,874 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:13:08,388 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:13:08,389 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:13:08,426 ERROR [Log] randomSelectProduct()Test Başarısız : bound must be positive 
+2021-09-29 18:13:08,467 ERROR [Log] addProductToCart()Test Başarısız : no such element: Unable to locate element: {"method":"css selector","selector":"#sp\-price\-lowPrice"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-L8J3NPQ', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\letit\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 132ae706b47c0a40baf08790adc9770d
+*** Element info: {Using=id, value=sp-price-lowPrice} 
+2021-09-29 18:13:13,673 ERROR [Log] goToCart()Test Başarısız : Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div[2]/div/div[4]/div[3]/div/div/div/div[2]/div[4]/div[1]/a (tried for 5 second(s) with 500 milliseconds interval) 
+2021-09-29 18:13:13,684 ERROR [Log] controlPrice()Test Başarısız : no such element: Unable to locate element: {"method":"css selector","selector":".new\-price"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-L8J3NPQ', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\letit\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 132ae706b47c0a40baf08790adc9770d
+*** Element info: {Using=class name, value=new-price} 
+2021-09-29 18:13:13,695 ERROR [Log] controlIncreasedProduct()Test Başarısız : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[1]/form/div/div[2]/div[1]/div[1]/div/div[6]/div[2]/div[2]/div[1]/div[4]/div/div[2]/select"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-L8J3NPQ', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\letit\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 132ae706b47c0a40baf08790adc9770d
+*** Element info: {Using=xpath, value=/html/body/div[1]/div[2]/div/div[1]/form/div/div[2]/div[1]/div[1]/div/div[6]/div[2]/div[2]/div[1]/div[4]/div/div[2]/select} 
+2021-09-29 18:13:25,609 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:13:25,613 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:13:28,707 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 18:13:28,708 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:13:30,993 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:13:30,993 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:13:33,309 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:13:33,309 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:13:33,522 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:13:34,809 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:13:34,875 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:13:34,876 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:13:34,973 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:13:34,973 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:13:35,045 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:13:35,046 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:13:43,094 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:23:50,474 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:23:50,478 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:23:53,853 INFO  [Log] Ana Sayfadasınız. 
+2021-09-29 18:23:53,862 ERROR [Log] searchProduct()Test Başarısız : expected: <https://www.gittigidiyor.com/> but was: <https://www.gittigidiyor.com/arama/?k=Bilgisayar> 
+2021-09-29 18:23:56,576 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:23:56,576 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:23:58,428 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:23:58,428 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:23:58,630 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:23:58,630 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:23:59,865 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:23:59,865 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:23:59,938 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:23:59,938 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:23:59,998 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:23:59,998 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:24:00,078 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:24:00,079 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:24:08,119 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:24:08,119 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:25:20,369 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:25:20,379 ERROR [Log] tryLogin()Test Başarısız : expected: <https://www.gittigidiyor.com/> but was: <https://www.gittigidiyor.com/uye-girisi> 
+2021-09-29 18:25:23,998 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:25:26,447 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:25:26,447 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:25:28,347 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:25:28,347 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:25:28,549 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:25:28,549 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:25:29,773 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:25:29,773 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:25:29,864 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:25:29,864 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:25:29,939 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:25:29,939 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:25:30,006 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:25:30,006 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:25:38,046 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:25:38,046 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:31:06,807 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:31:06,816 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:31:06,818 ERROR [Log] onHomePage()Test Başarısız : Cannot invoke "HomePage.goHomePage()" because "this.homePage" is null 
+2021-09-29 18:31:10,133 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:31:11,722 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:31:11,722 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:31:11,737 ERROR [Log] randomSelectProduct()Test Başarısız : bound must be positive 
+2021-09-29 18:31:11,756 ERROR [Log] addProductToCart()Test Başarısız : no such element: Unable to locate element: {"method":"css selector","selector":"#sp\-price\-lowPrice"}
+  (Session info: chrome=94.0.4606.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-L8J3NPQ', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\letit\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61978}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 82a5e6da9249b938af306a69e19543af
+*** Element info: {Using=id, value=sp-price-lowPrice} 
+2021-09-29 18:31:25,596 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:31:25,605 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:31:25,607 ERROR [Log] onHomePage()Test Başarısız : Cannot invoke "HomePage.goHomePage()" because "this.homePage" is null 
+2021-09-29 18:31:28,118 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:31:30,747 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:31:30,747 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:31:32,908 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:31:32,908 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:31:33,112 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:31:33,113 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:31:34,429 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:31:34,429 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:31:34,500 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:31:34,500 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:31:34,579 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:31:34,579 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:31:34,647 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:31:34,647 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:31:42,683 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:31:42,683 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:32:04,308 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:32:04,316 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:32:04,319 ERROR [Log] onHomePage()Test Başarısız : Cannot invoke "HomePage.goHomePage()" because "this.homePage" is null 
+2021-09-29 18:32:07,463 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:32:09,753 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:32:09,754 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:32:12,221 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:32:12,222 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:32:12,448 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:32:12,448 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:32:13,762 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:32:13,762 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:32:13,821 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:32:13,821 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:32:13,880 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:32:13,880 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:32:13,960 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:32:13,961 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:32:21,997 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:32:21,997 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:33:09,055 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:33:09,063 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:33:09,066 ERROR [Log] onHomePage()Test Başarısız : Cannot invoke "HomePage.goHomePage()" because "this.homePage" is null 
+2021-09-29 18:33:12,685 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:33:15,075 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:33:15,075 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:33:16,859 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:33:16,859 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:33:17,063 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:33:17,063 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:33:18,302 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:33:18,302 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:33:18,392 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:33:18,392 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:33:18,450 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:33:18,450 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:33:18,527 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:33:18,528 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:33:26,574 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:33:26,574 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:35:57,279 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:35:57,287 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:35:57,289 ERROR [Log] onHomePage()Test Başarısız : Cannot invoke "HomePage.goHomePage()" because "this.homePage" is null 
+2021-09-29 18:36:00,867 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:36:03,028 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:36:03,028 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:36:05,369 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:36:05,369 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:36:05,570 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:36:05,570 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:36:06,879 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:36:06,880 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:36:06,946 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:36:06,946 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:36:07,020 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:36:07,021 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:36:07,087 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:36:07,087 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:36:15,131 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:36:15,131 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 18:37:31,682 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 18:37:31,691 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 18:37:31,697 ERROR [Log] onHomePageControl()Test Başarısız : expected: <https://www.gittigidiyor.com/> but was: <https://www.gittigidiyor.com/uye-girisi> 
+2021-09-29 18:37:35,162 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 18:37:37,482 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 18:37:37,482 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 18:37:40,353 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 18:37:40,353 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 18:37:40,576 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 18:37:40,576 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 18:37:41,828 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 18:37:41,828 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 18:37:41,898 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 18:37:41,899 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 18:37:41,989 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 18:37:41,990 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 18:37:42,058 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 18:37:42,059 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 18:37:50,107 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 18:37:50,107 INFO  [Log] controlProductOnCart()Test Başarılı 
+2021-09-29 19:00:31,085 INFO  [Log] Login İşlemi Başarılı. 
+2021-09-29 19:00:31,093 INFO  [Log] tryLogin()Test Başarılı 
+2021-09-29 19:00:34,429 INFO  [Log] searchProduct()Test Başarılı 
+2021-09-29 19:00:37,261 INFO  [Log] 2.Sayfadasınız. 
+2021-09-29 19:00:37,261 INFO  [Log] goToPage2()Test Başarılı 
+2021-09-29 19:00:39,273 INFO  [Log] Rastgele Bir Ürün Seçildi. 
+2021-09-29 19:00:39,273 INFO  [Log] randomSelectProduct()Test Başarılı 
+2021-09-29 19:00:39,480 INFO  [Log] Ürün Sepete Eklendi. 
+2021-09-29 19:00:39,480 INFO  [Log] addProductToCart()Test Başarılı 
+2021-09-29 19:00:40,832 INFO  [Log] Sepete Gidiliyor. 
+2021-09-29 19:00:40,832 INFO  [Log] goToCart()Test Başarılı 
+2021-09-29 19:00:40,902 INFO  [Log] Fiyatlar Eşleşiyor. 
+2021-09-29 19:00:40,903 INFO  [Log] controlPrice()Test Başarılı 
+2021-09-29 19:00:40,961 INFO  [Log] Ürün Adedi Arttırıldı. 
+2021-09-29 19:00:40,961 INFO  [Log] controlIncreasedProduct()Test Başarılı 
+2021-09-29 19:00:41,043 INFO  [Log] Ürün Sepetten Silindi. 
+2021-09-29 19:00:41,044 INFO  [Log] deleteProductOnCart()Test Başarılı 
+2021-09-29 19:00:49,087 INFO  [Log] Sepet Boşaltıldı. 
+2021-09-29 19:00:49,087 INFO  [Log] controlProductOnCart()Test Başarılı 
